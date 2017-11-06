@@ -238,7 +238,7 @@
 
 04/10/2017
 - https://www.emigre.com/Essays/Magazine/GraphicDesigninthePostmodernEra
-- http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/15735/Can-an-Infant-Saving-Product-Prove-the-Death-of-Human-Centred-Design.aspx?_r=0//
+- http://www.engineering.com/DesignSoftware/DesignSoftwareArticles/ArticleID/15735/Can-an-Infant-Saving-Product-Prove-the-Death-of-Human-Centred-Design.aspx
 - http://poeticcomputation.info/chapters/ch.1/
 - https://gieseanw.wordpress.com/2012/10/21/a-comprehensive-step-by-step-tutorial-to-computing-dubins-paths/
 
@@ -278,3 +278,20 @@
 
 31/10/2017
 - https://www.itsnicethat.com/articles/qiu-yang-internal-stress-photography-311017#.WfisxxQL8ZM.twitter
+- https://www.grafik.net/category/letterform/rare-goods?utm_content=buffer7813c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+01/11/2017
+- http://designobserver.com/feature/whats-that-crashing-sound-or-eisenman-in-cincinnati/4797
+
+02/11/2017
+- https://www.typotheque.com/articles/fuck_tibor
+- https://www.newyorker.com/culture/culture-desk/the-raw-devotion-of-julien-baker
+- http://www.fromheretillnow.com/blog/2016/4/1/hiroshi-yoshimura
+
+04/11/2017
+- https://hyperallergic.com/400785/the-shelfies-of-koreas-joseon-dynasty/
+
+05/11/2017
+- http://www.seriouseats.com/2013/09/ask-the-food-lab-how-many-times-can-i-reuse-fry-oil.html
+- http://cognitivemedium.com/tat/index.html
+- https://alliedworks.com/projects/arvo-part-centre
