@@ -295,3 +295,52 @@
 - http://www.seriouseats.com/2013/09/ask-the-food-lab-how-many-times-can-i-reuse-fry-oil.html
 - http://cognitivemedium.com/tat/index.html
 - https://alliedworks.com/projects/arvo-part-centre
+- https://futhark-lang.org
+- https://www.julian.com/learn/muscle/intro
+- https://www.gq.com/story/andre-3000-outkast-gq-style-interview
+- https://arxiv.org/pdf/1710.08864.pdf
+- http://pgbovine.net/torta-paper.htm
+- http://pgbovine.net/omnicode-paper.htm
+- http://pgbovine.net/dsjs-paper.htm
+- http://pgbovine.net/command-line-bullshittery.htm
+
+07/11/2017
+- http://www.martingrandjean.ch/complex-structures-and-international-organizations/
+- https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2
+
+08/11/2017
+- http://www.jacopocolo.com/p5sketchplugin/
+- https://en.wikipedia.org/wiki/Sign_(linguistics)
+- https://en.wikipedia.org/wiki/Ferdinand_de_Saussure
+
+09/11/2017
+- https://guides.area17.com/design-techniques/#resources
+- http://remind.danilocampos.com.br/#
+
+12/11/2017
+- http://www.e-flux.com/journal/85/156418/my-collectible-ass/
+- https://www.politico.com/magazine/story/2017/11/02/clinton-brazile-hacks-2016-215774
+- http://countercomplex.blogspot.com/2014/08/the-resource-leak-bug-of-our.html
+- https://thenewinquiry.com/spinoza-in-a-t-shirt/
+
+13/11/2017
+- http://academic.uprm.edu/mleonard/theorydocs/readings/JCollins.pdf
+
+15/11/2017
+- https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
+- https://daneden.me/2017/11/15/the-burden-of-precision/
+
+17/11/2017
+- https://blog.figma.com/delete-and-heal-for-vector-networks-d92f176805f
+- https://blog.figma.com/realtime-editing-of-ordered-sequences-c1e6b46fcd67b
+- https://blog.figma.com/an-alternative-approach-to-rate-limiting-f8a06cf7c94c
+
+18/11/2017
+- https://vimeo.com/241966869
+- https://en.wikipedia.org/wiki/Critical_code_studies
+- https://en.wikipedia.org/wiki/Software_studies
+- http://publicdomainreview.org/collections/ha-bun-shu-a-japanese-book-of-wave-and-ripple-designs-1919/
+- https://theoutline.com/post/2499/brand-new-sexual-harrassment-emo
+
+19/11/2017
+- https://vimeo.com/230514302
