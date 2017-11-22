@@ -344,3 +344,20 @@
 
 19/11/2017
 - https://vimeo.com/230514302
+
+20/11/2017
+- https://bloomberg.github.io/wsk/
+- http://everything-will-happen.com/ai/product/system/design/2017/10/05/the-plumber-scenario.html
+- http://reallifemag.com/the-babysitters-club/
+- https://champ-magazine.com/art/tokujin-yoshioka/
+- http://brutalistwebsites.com/raw/hawraf.com/
+- http://www.alphabettes.org/granada-the-spanish-language-as-type-design-criteria/
+
+21/11/2017
+- https://noisey.vice.com/en_uk/article/j5jne3/rina-sawayama-interview-2017
+
+22/11/2017
+- https://www.quora.com/What-is-this-typeface-and-why-do-some-designers-use-this-kind-of-typeface/answer/Thierry-Blancpain?share=21b7cc96&srid=5SH
+- http://www.isitisitisit.com/2013/06/bred-to-be-boring.html
+- https://www.itsnicethat.com/articles/matthieu-lavanchy-irl-the-gourmand-issue-ten-photography-publication-141117
+- http://www.e-flux.com/architecture/positions/160959/mere-decorating/
