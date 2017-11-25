@@ -361,3 +361,11 @@
 - http://www.isitisitisit.com/2013/06/bred-to-be-boring.html
 - https://www.itsnicethat.com/articles/matthieu-lavanchy-irl-the-gourmand-issue-ten-photography-publication-141117
 - http://www.e-flux.com/architecture/positions/160959/mere-decorating/
+- http://subpixel.space
+- https://blog.figma.com/an-alternative-approach-to-rate-limiting-f8a06cf7c94c
+
+24/11/2017
+- https://blog.acolyer.org/2017/11/09/type-test-scripts-for-typescript-testing/
+- https://blog.acolyer.org/2017/11/09/type-test-scripts-for-typescript-testing/
+- https://blog.acolyer.org/2017/11/08/fast-and-precise-type-checking-for-javascript/
+- https://blog.acolyer.org/2017/10/18/on-understanding-software-agility-a-social-complexity-point-of-view/
