@@ -369,3 +369,16 @@
 - https://blog.acolyer.org/2017/11/09/type-test-scripts-for-typescript-testing/
 - https://blog.acolyer.org/2017/11/08/fast-and-precise-type-checking-for-javascript/
 - https://blog.acolyer.org/2017/10/18/on-understanding-software-agility-a-social-complexity-point-of-view/
+
+25/11/2017
+- http://gitolite.com/gcs#(1)
+
+28/11/2017
+- http://www.thestranger.com/features/2017/04/19/25082450/the-heart-of-whiteness-ijeoma-oluo-interviews-rachel-dolezal-the-white-woman-who-identifies-as-black
+
+29/11/2017
+- https://eatnonfood.com
+- https://edouard.us/new-computers/
+- https://designobserver.com/feature/graphic-design-criticism-as-a-spectator-sport/37607/
+- https://spectrum.chat/thread/ac4cba39-0582-4b73-9582-9e863ed66346
+- https://www.stephanboyer.com/post/134/my-unusual-hobby
