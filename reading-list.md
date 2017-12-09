@@ -382,3 +382,21 @@
 - https://designobserver.com/feature/graphic-design-criticism-as-a-spectator-sport/37607/
 - https://spectrum.chat/thread/ac4cba39-0582-4b73-9582-9e863ed66346
 - https://www.stephanboyer.com/post/134/my-unusual-hobby
+
+04/12/2017
+- http://fontreviewjournal.com/ogg/
+- https://blog.golang.org/slices
+
+07/12/2017
+- https://theoutline.com/post/2569/taylor-swift-time-person-of-the-year
+- https://www.moma.org/calendar/exhibitions/3903
+- https://blog.intercom.com/behind-design-work-building-intercom/
+- https://www.underconsideration.com/brandnew/archives/follow-up_university_of_california.php
+- https://jvns.ca/wizard-zine.pdf
+
+08/12/2017
+- http://www.e-flux.com/journal/74/59810/jodi-s-infrastructure/
+
+09/12/2017
+- https://distill.pub/2017/aia/
+- http://query.nytimes.com/mem/archive-free/pdf?res=9D02E2D71131E233A2575BC0A9669D946096D6CF&mcubz=3
