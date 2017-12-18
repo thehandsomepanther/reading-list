@@ -400,3 +400,44 @@
 09/12/2017
 - https://distill.pub/2017/aia/
 - http://query.nytimes.com/mem/archive-free/pdf?res=9D02E2D71131E233A2575BC0A9669D946096D6CF&mcubz=3
+- https://www.myajc.com/news/special-reports/how-scad-sells-dream/VVfRSVilHliyrTe9LAd5hN/
+
+10/12/2017
+- https://readonlymemory.vg/a-brief-history-of-speedrunning/
+- http://whitney.org/Exhibitions/Artport/Commissions/SoftwareStructures
+- https://www.newyorker.com/magazine/2017/12/11/cat-person
+- https://www.grafik.net/category/letterform/type-unclassified
+- http://typographica.org/typeface-reviews/gintronic/
+
+12/12/2017
+- https://blog.acolyer.org/2016/10/25/purposes-concepts-misfits-and-a-redesign-of-git/
+- https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/
+
+13/12/2017
+- http://getdango.com/emoji-and-deep-learning/
+- https://necessarydisorder.wordpress.com/2017/09/02/animated-stripes-gifs-from-scalar-fields/
+- https://eyeondesign.aiga.org/elaine-lustig-cohen/?mc_cid=b5183bae38&mc_eid=5019296ece
+
+14/12/2017
+- https://en.wikipedia.org/wiki/Fortune%27s_algorithm
+- http://www.alphabettes.org/language-as-design-criteria-part-i/
+- http://www.alphabettes.org/language-as-design-criteria-part-ii/
+- http://www.alphabettes.org/language-as-design-criteria-part-iii/
+- http://salmanahmad.com/files/Dog-UIST2013.pdf
+- http://rhizome.org/editorial/2017/nov/30/artist-profile-ryan-kuo/
+
+15/12/2017
+- https://www.youtube.com/watch?v=6pY9Bfwfj2A
+- https://www.youtube.com/watch?v=AvEqfg2sIH0
+- https://bost.ocks.org/mike/shuffle/
+- https://design.google/library/designing-span-2017/
+- https://design.google/library/spectral-new-screen-first-typeface/
+
+17/12/2017
+- https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+- https://jon-kyle.com/entries/2017-12-12-peer-paths/
+- http://highline.huffingtonpost.com/articles/en/poor-millennials/?mobile=1&ex_cid=SigDig
+- http://fontreviewjournal.com/sporting-grotesque/
+
+18/12/2017
+- https://www.perl.com/pub/1999/03/pm.html
