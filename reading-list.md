@@ -441,3 +441,18 @@
 
 18/12/2017
 - https://www.perl.com/pub/1999/03/pm.html
+
+19/12/2017
+- http://www.stopify.org/index.html
+- https://2014.jsconf.eu/speakers/philip-roberts-what-the-heck-is-the-event-loop-anyway.html
+
+20/12/2017
+- https://www.justinobeirne.com/google-maps-moat
+
+22/12/2017
+- https://walkerart.org/magazine/2017-the-year-according-to-tracy-ma
+- https://walkerart.org/magazine/2017-the-year-according-to-other-means
+- https://walkerart.org/magazine/these-posters-are-fireworks-graphic-design-on-display
+- https://vimeo.com/115154289
+- https://medium.com/@sts_news/design-thinking-is-kind-of-like-syphilis-its-contagious-and-rots-your-brains-842ed078af29
+- https://dynamicland.org
