@@ -456,3 +456,49 @@
 - https://vimeo.com/115154289
 - https://medium.com/@sts_news/design-thinking-is-kind-of-like-syphilis-its-contagious-and-rots-your-brains-842ed078af29
 - https://dynamicland.org
+
+23/12/2017
+- https://www.are.na/blog/case%20study/2017/12/12/visible-speech.html
+- http://jarrettfuller.blog/post/167034024792/muriel-cooper-and-the-expanded-practice
+
+24/12/2017
+- https://www.vox.com/identities/2017/12/15/16781222/trump-racism-economic-anxiety-study
+- https://www.newyorker.com/magazine/2017/11/27/my-linkedin-photo
+- https://www.alicemaz.com/writing/minecraft.html
+
+25/12/2017
+- https://monokrom.no/fonts/satyr/design
+- https://monokrom.no/fonts/nordvest/design
+
+29/12/2017
+- https://www.youtube.com/watch?v=aXI81sjgWO8
+- https://www.artsy.net/article/artsy-editorial-dada-bauhaus-14-art-movements-names
+- https://www.are.na/blog/case%20study/2017/09/19/the-wildness-knows-the-score.html
+- https://twitter.com/i/moments/880688233641848832?s=13
+- https://www.themonthly.com.au/issue/2017/december/1512046800/patrick-witton/new-grotesque
+- https://www.youtube.com/watch?v=W8My0aLsIMA
+- https://en.wikipedia.org/wiki/Metamodernism
+- https://en.wikipedia.org/wiki/Post-postmodernism
+
+31/12/2017
+- https://eyeondesign.aiga.org/in-the-world-of-magazines-whats-so-good-about-bad-taste/
+- https://eyeondesign.aiga.org/six-magazine-predictions-for-2018/
+- https://walkerart.org/magazine/werner-herzog-minnesota-declaration-2017-addendum
+- https://eyeondesign.aiga.org/momas-thinking-machines-explores-the-transformation-of-art-design-in-the-computer-age/
+- https://us1.campaign-archive.com/?u=78cbbb7f2882629a5157fa593&id=c75804d214
+- https://www.buzzfeed.com/tedchiang/the-real-danger-to-civilization-isnt-ai-its-runaway
+- https://vimeo.com/246948702
+
+01/01/2018
+- http://www.typeroom.eu/article/wang-zhi-hong-roams-path-typographic-wisdom-grace
+
+02/01/2018
+- https://www.bloomberg.com/news/videos/2016-06-02/bloomberg-businessweek-design-2016-michael-rock
+- http://2x4.org/ideas/65/all-that-is-solid/
+- http://worrydream.com/TheWebOfAlexandria/
+- http://worrydream.com/TheWebOfAlexandria/2.html
+- http://www.bldgblog.com/2010/01/nakatomi-space/
+- https://www.nytimes.com/2017/12/29/technology/nintendo-switch.html
+
+06/01/2018
+- http://www.averyreview.com/issues/26/gehrys-masterclass
