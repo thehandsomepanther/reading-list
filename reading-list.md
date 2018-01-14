@@ -502,3 +502,40 @@
 
 06/01/2018
 - http://www.averyreview.com/issues/26/gehrys-masterclass
+
+08/01/2018
+- https://www.html5rocks.com/en/tutorials/canvas/hidpi/
+- http://xanadu.com.au/ted/TN/WRITINGS/TCOMPARADIGM/tedCompOneLiners.html
+
+09/01/2018
+- https://www.rollingstone.com/glixel/features/super-mario-odyssey-was-shaped-by-marios-biggest-flops-w496166
+- https://www.polygon.com/2018/1/8/16846618/super-mario-odyssey-year-in-review-ian-dallas
+- http://typesoftype.com
+- https://objectsandthings.wordpress.com/2010/02/13/eames-films-as-meditations-on-objects/
+
+10/01/2018
+- https://frieze.com/article/why-i-write-0
+- https://www.youtube.com/watch?v=xWRRAw6xzos
+- https://en.wikipedia.org/wiki/Object-oriented_ontology
+- https://mort-modern.losttype.com
+- https://www.dropbox.com/s/j1vv2baheiduvip/David%20Attenborough%20talk%20technique%202018.pdf?dl=0
+
+11/01/2018
+- http://www.everywhereist.com/i-made-the-pizza-cinnamon-rolls-from-mario-batalis-sexual-misconduct-apology-letter/
+- https://www.polygon.com/2018/1/11/16869202/mario-rabbids-best-games-2017-year-in-review
+- https://theoutline.com/sponsor/goldman/blockchain-2017
+- https://www.metmuseum.org/toah/works-of-art/1992.5112/
+- https://www.youtube.com/watch?v=3eoE-qrrgLE
+
+12/01/2018
+- https://www.designboom.com/design/experimental-jetset-interview/
+
+13/01/2018
+- http://www.typemedia2015.com
+- http://e-r-h.tumblr.com/post/159212365822/who-are-some-of-your-favorite-graphic-designers-or
+- https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/
+
+14/01/2018
+- https://logicmag.io/03-monkeywrenching-the-machine/
+- https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5
+- https://fontsinuse.com/uses/19798/fire-and-fury-by-michael-wolff
