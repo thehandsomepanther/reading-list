@@ -539,3 +539,59 @@
 - https://logicmag.io/03-monkeywrenching-the-machine/
 - https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5
 - https://fontsinuse.com/uses/19798/fire-and-fury-by-michael-wolff
+- http://xroads.virginia.edu/~HYPER/POE/cask.html
+- https://www.youtube.com/watch?v=ZDjmW-gIsKs
+
+15/01/2018
+- https://www.youtube.com/watch?v=W5ih1IRIRxI
+
+16/01/2018
+- https://slate.com/briefing/2018/01/jason-santa-maria-on-how-slate-redesigned-the-way-we-work.html
+- https://www.theawl.com/2013/07/patricia-lockwood-rape-joke/
+- http://wbgo.org/post/bad-plus-has-big-news-some-subtraction-some-addition-whole-new-sum#stream/0
+
+17/01/2018
+- https://frerejones.com/blog/conductors-dual-structures
+
+19/01/2018
+- https://projectsbyif.com/blog/ethics-markets-and-registers
+- https://catalogue.projectsbyif.com
+- https://eyeondesign.aiga.org/new-york-based-synoptic-office-on-design-as-a-living-thing-and-designing-with-one-foot-firmly-planted-in-academia/
+- https://hacks.mozilla.org/2018/01/making-webassembly-even-faster-firefoxs-new-streaming-and-tiering-compiler/
+- http://www.nytimes.com/1987/08/02/books/l-matters-of-sense-and-opacity-773987.html
+- https://design-milk.com/how-ivy-ross-helped-change-google-design/
+
+21/01/2018
+- https://www.youtube.com/watch?v=q5IMLnFQO2Y
+- https://fontsinuse.com/uses/8986/dynamo-youth-center-building-and-logo
+- http://www.aqnb.com/2018/01/15/for-better-or-worse-the-circa-of-radical-female-fictions-today-and-forever-in-maren-karlsons-soft-fists-at-pushkin-gogol/
+- https://www.fontshop.com/content/hesse-antiqua
+
+23/01/2018
+- https://www.youtube.com/watch?v=7-tMhRKS9Jo
+- https://www.booooooom.com/2018/01/23/designer-spotlight-stefan-hurlemann/
+- https://www.booooooom.com/2018/01/19/artist-spotlight-jesus-perea-2/
+- https://www.booooooom.com/2018/01/18/designer-spotlight-ares-pedroli/
+
+25/01/2018
+- https://blog.figma.com/figma-quality-week-inside-our-bug-bashing-party-1c1ddfa72e0d
+
+26/01/2018
+- http://rcc.recruit.co.jp/g8/exhibition/g8exh_201801/g8exh_201801.html?lang=en
+- https://en.wikipedia.org/wiki/Détournement
+
+27/01/2018
+- https://thebaffler.com/latest/faux-pas-at-moma-rahman
+- https://thebaffler.com/latest/instapoetry-roberts
+- http://thegreatdiscontent.com/interview/gail-bichler
+- http://worrydream.com/SomeThoughtsOnTeaching/
+
+28/01/2018
+- https://www.grafik.net/category/letterform/total-recall
+- https://pitchfork.com/thepitch/the-ugly-truths-of-loving-the-falls-mark-e-smith/
+- https://lawsofux.com
+- https://dvclmn.com
+- http://log.samarskaya.com
+
+30/01/2018
+- https://thecreativeindependent.com/people/mindy-seu-on-making-the-things-you-want-to-see/
