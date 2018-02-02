@@ -595,3 +595,12 @@
 
 30/01/2018
 - https://thecreativeindependent.com/people/mindy-seu-on-making-the-things-you-want-to-see/
+
+31/01/2018
+- https://commercialtype.com/news/chobani_serif_for_chobani
+- https://thecreativeindependent.com/people/julien-baker-on-learning-to-articulate-joy/
+- https://medium.com/@jbmorizot/trikster-a-postmortem-686f4608da9e
+
+02/02/2018
+- https://thebaffler.com/latest/engineered-for-dystopia-banks
+- https://www.npr.org/sections/monkeysee/2018/02/01/582140859/a-p-bio-and-the-complications-of-context1
