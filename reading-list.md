@@ -604,3 +604,14 @@
 02/02/2018
 - https://thebaffler.com/latest/engineered-for-dystopia-banks
 - https://www.npr.org/sections/monkeysee/2018/02/01/582140859/a-p-bio-and-the-complications-of-context1
+- https://www.fastcodesign.com/90155005/design-discourse-is-in-a-state-of-arrested-development
+
+04/02/2018
+- http://www.artnet.com/artists/kazuo-shiraga/
+- https://archive.org/search.php?query=creator%3A%22Radical+Software%22
+- http://screenself.me
+- http://www.notesfrombelow.org/article/silicon-inquiry
+- https://medium.com/@thi.ng/how-to-ui-in-2018-ac2ae02acdf3
+
+05/02/2018
+- http://www.ubu.com/film/russell_terrace.html
