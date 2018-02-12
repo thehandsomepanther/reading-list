@@ -615,3 +615,10 @@
 
 05/02/2018
 - http://www.ubu.com/film/russell_terrace.html
+- https://www.youtube.com/watch?v=olOURPvR-0M
+
+09/02/2018
+- https://ablersite.org/2013/03/19/jennifer-crupis-unguarded-gestures/
+
+12/02/2018
+- https://daneden.me/2018/01/05/subatomic-design-systems/
