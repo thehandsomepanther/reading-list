@@ -622,3 +622,115 @@
 
 12/02/2018
 - https://daneden.me/2018/01/05/subatomic-design-systems/
+- https://docs.google.com/presentation/d/1CbfwxC3cCOvZ6ayBH0sK19dfrVXQuEvgqt-mg5-d_Mk/edit#slide=id.g330def5829_0_999
+- https://www.itsnicethat.com/articles/bobby-mckenna-steven-soderbergh-mosaic-tv-series-app-illustration-080218
+
+23/02/2018
+- https://www.topic.com/the-forgotten-zine-of-1960s-asian-american-radicals- https://www.youtube.com/watch?v=cRcZT8TtayQ
+- https://www.youtube.com/watch?v=c6JqWCudl8o
+- http://www.dazeddigital.com/artsandculture/article/39117/1/dis-magazine-bernadette-corporation-print-video-rip
+
+24/02/2018
+- https://www.gq.com/story/what-ever-happened-to-brendan-fraser
+- https://newrepublic.com/article/140748/madness-king-donald 
+- https://www.newyorker.com/magazine/2017/05/22/gerhard-steidl-is-making-books-an-art-form
+
+08/03/2018
+- https://beta.observablehq.com/@scarysize/finding-random-points-in-a-polygon
+
+14/03/2018
+- https://hacks.mozilla.org/2018/03/making-webassembly-better-for-rust-for-all-languages/:
+- https://www.citylab.com/design/2018/03/why-la-just-appointed-a-design-czar/555623/
+
+17/03/2018
+- https://thenewinquiry.com/crushed/
+
+18/03/2018
+- https://medium.com/@sophiehelf/a-happening-3c6559bb2910
+
+20/03/2018
+- http://www.memo.tv/learning-to-see-you-are-what-you-see/
+- https://thenewinquiry.com/yellow-fever/
+- https://walkerart.org/magazine/shannon-michael-cane-bootleg-tshirt-show
+- https://medium.com/backchannel/all-technology-is-assistive-ac9f7183c8cd
+- https://stateofthediscipline.acla.org/entry/thug
+
+21/03/2018
+- https://klim.co.nz/blog/a-typeface-is-not-a-tool/
+- https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/
+- https://gist.github.com/jvns/85d97e260be15080158c023398d8a660
+- http://matt.might.net/articles/what-cs-majors-should-know/
+- http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator
+
+22/03/2018
+- https://airbnb.design/the-evolution-of-tools/
+
+29/03/2018
+- https://www.itsnicethat.com/articles/mindy-seu-graphic-design-130318?utm_source=twitter&utm_medium=social&utm_campaign=intsocial
+
+30/03/2018
+- http://longnow.org/seminars/02011/jul/25/why-cities-keep-growing-corporations-always-die-and-life-gets-faster/
+- https://pmarchive.com/guide_to_personal_productivity.html
+- https://medium.com/sfpc/spring-2018-week-5-36df8924e06e
+- https://archetype.cc
+- https://mkremins.itch.io/gardening-games-zine
+
+17/04/2018
+- https://frankchimero.com/writing/the-good-room/
+- https://walkerart.org/magazine/uncovered-001-young-fathers-against-all-logic-total-control
+
+19/04/2018
+- http://calnewport.com/blog/2018/04/11/the-disturbing-high-modernism-of-silicon-valley/
+- https://www.newyorker.com/culture/culture-desk/do-capybaras-dream-of-google-docs
+- https://www.ribbonfarm.com/2018/04/06/deep-laziness/
+- http://media.longnow.org/files/2/Michael_Chabon_-_The_Omega_Glory.pdf
+
+28/04/2018
+- https://www.newyorker.com/culture/culture-desk/the-obsessive-art-and-great-confession-of-charlotte-salomon/amp
+
+08/05/2018
+- https://www.newyorker.com/culture/culture-desk/the-carnage-and-chaos-of-childish-gambinos-this-is-america
+- https://increment.com/programming-languages/code-poetry/
+- https://jacobian.org/writing/engmanager-reading-list/
+
+24/05/2018
+- https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/ 
+
+29/05/2018
+- https://en.wikipedia.org/wiki/Conway%27s_law
+- https://www.youtube.com/watch?v=9cXTGW9J9a0&feature=youtu.be
+- http://jcs.biologists.org/content/121/11/1771
+- http://typedrawers.com/discussion/2428
+
+11/06/2018
+- http://typedrawers.com/discussion/2739/contextually-offsetting-diacritics
+
+14/06/2018
+- https://tanimislam.ddns.net/~tanim/classes/ASTR342/notes/analogordigital.pdf
+- http://hauntedgeographies.typepad.com/hauntedgeographies/2012/06/the-anti-click.html
+- https://gravitylobby.club/trashcan.html
+
+16/06/2018
+- https://www.edge.org/response-detail/11249
+- https://medium.com/@reinman/towards-a-better-software-architecture-383c4bd1b8f9
+- https://medium.com/@reinman/its-reboot-time-for-operating-systems-6a516ad8e89c
+
+19/06/2018
+- https://medium.com/@BethanyHeck/making-the-most-of-inspiration-when-it-strikes-791f34ae3d0e
+
+21/06/2018
+- https://www.guernicamag.com/myth-is-a-theorem-about-the-nature-of-reality/
+
+24/06/2018
+- https://www.nytimes.com/1987/11/29/magazine/living-and-writing-the-peasant-life.html
+
+25/06/2018
+- https://thecreativeindependent.com/guides/a-guide-to-working-with-clients/
+
+27/06/2018
+- https://eev.ee/blog/2016/05/29/perlin-noise/
+- https://eev.ee/release/2016/05/25/under-construction-our-pico-8-game/
+- https://nplusonemag.com/online-only/online-only/must-we-mean-what-we-say/
+
+28/06/2018
+- https://food52.com/blog/18949-she-was-a-soul-food-sensation-then-19-years-ago-she-disappeared
